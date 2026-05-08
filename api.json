@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
+    "last_updated": "2026-05-07",
     "repository": "https://github.com/wyrdness/dulce-base",
     "maintainers": [
       {
@@ -19,68 +19,116 @@
   "phenomenon": {
     "id": "dulce-base",
     "name": "Dulce Base",
-    "aliases": [],
-    "category": "|_CONSPIRACY_THEORY_/_UFO_UAP_|",
-    "subcategory": "| Source | Credibility |",
-    "tags": [
-      "folklore",
-      "mythology"
+    "aliases": [
+      { "name": "Archuleta Mesa Base", "region": "New Mexico, USA" }
     ],
-    "status": "documented",
+    "category": "CONSPIRACY_THEORY",
+    "subcategory": "Alleged underground alien-human facility",
+    "tags": [
+      "conspiracy-theory",
+      "ufo",
+      "underground-base",
+      "new-mexico",
+      "dulce",
+      "afosi-disinformation",
+      "paul-bennewitz"
+    ],
+    "status": "debunked",
     "description": {
-      "summary": "Dulce Base is an alleged secret underground facility located beneath Archuleta Mesa near Dulce, New Mexico.",
-      "full": "Dulce Base is an alleged secret underground facility located beneath Archuleta Mesa near Dulce, New Mexico. According to conspiracy theories originating in the 1980s, the base is a joint operation between the US government and extraterrestrial beings, conducting horrific experiments on humans and animals in a seven-level underground complex. The claims primarily stem from Paul Bennewitz's UFO investigations in the late 1970s and Phil Schneider's sensational testimony in the 1990s. Despite extensive investigation by UFO researchers and journalists, **no physical evidence, photographs, or credible documentation has ever been found** to support the existence of this facility."
+      "summary": "An alleged secret underground facility beneath Archuleta Mesa near Dulce, New Mexico, said by conspiracy proponents to be a joint US-government / extraterrestrial laboratory. The story originated with the disinformation campaign that the US Air Force Office of Special Investigations directed against Albuquerque businessman Paul Bennewitz from 1980 onwards.",
+      "full": "Dulce Base is the name given to an alleged secret underground facility supposedly located beneath Archuleta Mesa near the town of Dulce, in northwestern New Mexico. According to conspiracy proponents, the facility is a joint US-government and extraterrestrial laboratory housing horrific human and animal experiments on multiple subterranean levels. The narrative has its origins in the activities of Albuquerque businessman Paul Bennewitz (1927–2003), who in July 1979 began self-funded UFO investigations and came to believe he was intercepting alien communications near Kirtland Air Force Base. In May 1980 hypnosis sessions with the alleged abductee Myrna Hansen, conducted by psychologist R. Leo Sprinkle, generated narratives of underground bases with 'body parts floating in vats'. Bennewitz contacted Kirtland AFB on 24 October 1980, and on 2 December 1981 wrote to Senator Pete Domenici describing a 'Dulce War' he placed in late 1979 or early 1980. UFOlogist William Moore publicly admitted on 1 July 1989 that he and US Air Force Office of Special Investigations officer Richard Doty had run a deliberate disinformation campaign against Bennewitz; CIA-archived materials from 1992 corroborated the campaign. Bennewitz was hospitalized for psychiatric care in August 1988. The narrative was further amplified in 1987 by John Lear, in 1988 by sensational coverage in the Weekly World News, and through pseudonymous figures including 'Jason Bishop III' (Thomas Allen LeVesque), who later acknowledged fabricating his accounts. No physical evidence, photographs, or documentary records of the alleged facility have ever surfaced. Political scientist Michael Barkun has noted that real Cold War-era missile and military installations in the region lent superficial credibility to the rumours, but characterizes the alien-firefight claims as far outside even the most aggressive secret-base claims. Dulce locals have at times leaned into the legend for tourism, hosting a Dulce Base UFO Conference in 2016."
     },
     "etymology": {
-      "origin": "Unknown",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
+      "origin": "Modern English; named for the town of Dulce, New Mexico, near which the alleged base is said to lie",
+      "meaning": "'Dulce Base' refers to the supposed underground facility under Archuleta Mesa",
+      "first_use": "Late 1970s / early 1980s, in the writings and statements of Paul Bennewitz"
     }
   },
   "classification": {
     "taxonomy": {
-      "category": "|_CONSPIRACY_THEORY_/_UFO_UAP_|",
-      "type": "| Source | Credibility |",
-      "subtype": "Unknown",
-      "variant": "Unknown"
+      "category": "CONSPIRACY_THEORY",
+      "type": "Alleged underground alien-human facility",
+      "subtype": "UFO/government-collaboration narrative",
+      "variant": "Late-20th-century US"
     },
-    "related_phenomena": []
+    "related_phenomena": [
+      { "id": "area-51", "name": "Area 51", "relationship": "similar", "description": "Real US military installation around which similar conspiracy narratives have grown" },
+      { "id": "men-in-black", "name": "Men in Black", "relationship": "related", "description": "Recurrent UFO-mythos figures linked to alleged government-alien collusion" },
+      { "id": "reptilians", "name": "Reptilians", "relationship": "related", "description": "Frequently invoked alongside Dulce Base in larger conspiracy narratives" },
+      { "id": "greys", "name": "Greys", "relationship": "related", "description": "Alleged extraterrestrial occupants of Dulce Base in conspiracy literature" },
+      { "id": "montauk-project", "name": "Montauk Project", "relationship": "similar", "description": "Comparable underground/secret-government conspiracy narrative" }
+    ]
   },
   "characteristics": {
     "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
+      "features": [
+        { "feature": "Alleged 7-level facility", "description": "Conspiracy literature describes a multi-level underground complex; this is unsupported by evidence", "frequency": "always" },
+        { "feature": "Alleged location beneath Archuleta Mesa", "description": "Said to lie beneath Archuleta Mesa, north of Dulce, New Mexico", "frequency": "always" }
+      ],
+      "morphology": "There is no morphology to describe: no Dulce Base has been documented to exist."
     },
     "abilities": [],
     "behavior": {
       "activity_period": "unknown",
       "disposition": "unknown",
+      "social_structure": "unknown",
       "habitat_preference": []
     }
   },
   "distribution": {
     "range": {
-      "description": "Unknown",
-      "continents": [],
-      "countries": [],
-      "regions": []
+      "description": "Alleged location: Archuleta Mesa, near the town of Dulce in northwestern New Mexico, USA, on the Jicarilla Apache Nation.",
+      "continents": ["North America"],
+      "countries": ["United States"],
+      "regions": [
+        "New Mexico",
+        "Rio Arriba County",
+        "Jicarilla Apache Nation",
+        "Archuleta Mesa"
+      ]
     },
-    "hotspots": [],
+    "hotspots": [
+      {
+        "name": "Archuleta Mesa",
+        "location": {
+          "description": "Archuleta Mesa, just north of Dulce, New Mexico",
+          "country": "United States",
+          "region": "New Mexico"
+        },
+        "peak_period": "1979–1990s",
+        "notes": "Central locus of the Bennewitz / Dulce Base narrative"
+      }
+    ],
     "temporal": {
       "first_recorded": {
-        "date": "Unknown",
+        "date": "1979-07-01",
         "circa": true,
-        "source": "Traditional folklore"
-      }
+        "source": "Beginning of Paul Bennewitz's self-funded UFO investigations near Kirtland AFB"
+      },
+      "peak_activity_periods": [
+        { "period": "1980–1989", "description": "Bennewitz, AFOSI / William Moore disinformation campaign, and John Lear's amplification of Dulce claims" },
+        { "period": "1990s", "description": "Phil Schneider lecture circuit and continued conspiracy popularization" }
+      ]
     }
   },
   "history": {
     "origins": {
-      "cultural_roots": "Unknown",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
+      "cultural_roots": "American UFO subculture of the late 1970s and 1980s, conditioned by Cold War secrecy, real classified projects in the New Mexico desert (Manhattan Project, Sandia, Kirtland), and a growing market for sensational UFO publications and lectures.",
+      "earliest_accounts": "Paul Bennewitz's 1979 claim to be intercepting alien transmissions near Kirtland AFB and his 1980 contact with Air Force authorities.",
+      "folklore_connections": "Sits alongside other late-20th-century US underground-base conspiracy narratives such as Area 51 and the Montauk Project."
     },
-    "timeline": []
+    "timeline": [
+      { "date": "1979-07-01", "event": "Paul Bennewitz begins self-funded UFO investigations near Albuquerque and Kirtland AFB", "significance": "Origin point of the Dulce Base narrative", "source": "Wikipedia: Paul Bennewitz" },
+      { "date": "1980-05-01", "event": "Hypnosis sessions with Myrna Hansen, conducted by psychologist R. Leo Sprinkle, produce accounts of an underground base with body parts floating in vats", "significance": "Seeds the 'Dulce' imagery of the conspiracy", "source": "Wikipedia: Paul Bennewitz" },
+      { "date": "1980-10-24", "event": "Bennewitz contacts Kirtland AFB with his findings", "significance": "Triggers the formal AFOSI engagement that becomes a disinformation operation", "source": "Wikipedia: Paul Bennewitz" },
+      { "date": "1981-12-02", "event": "Bennewitz writes to Senator Pete Domenici describing a 'Dulce War' he places in late 1979 or early 1980", "significance": "First documented appearance of the 'Dulce War' motif", "source": "Wikipedia: Paul Bennewitz" },
+      { "date": "1987-01-01", "event": "UFOlogist John Lear publicly endorses the existence of the Dulce facility", "significance": "Major amplification of the narrative within UFO subculture", "source": "Wikipedia: Dulce Base" },
+      { "date": "1988-08-01", "event": "Bennewitz is hospitalized for psychiatric care after a mental-health crisis", "significance": "Documents the personal cost of the AFOSI campaign", "source": "Wikipedia: Paul Bennewitz" },
+      { "date": "1989-07-01", "event": "William Moore publicly admits at a MUFON conference that he and AFOSI agent Richard Doty fed Bennewitz disinformation", "significance": "Definitive on-the-record acknowledgement of the disinformation campaign", "source": "Wikipedia: Paul Bennewitz" },
+      { "date": "1992-01-01", "event": "Documents in the CIA library (a 1992 Monroe Institute document) corroborate the AFOSI / William Moore campaign against Bennewitz", "significance": "Independent corroboration of the disinformation operation", "source": "Wikipedia: Paul Bennewitz" },
+      { "date": "2016-01-01", "event": "Dulce, New Mexico hosts a Dulce Base UFO Conference", "significance": "Local civic adoption of the conspiracy narrative for tourism", "source": "Wikipedia: Dulce Base" }
+    ],
+    "modern_era": "Mainstream researchers — including political scientist Michael Barkun — treat Dulce Base as a foundational case study of how an AFOSI-led disinformation operation in the early 1980s seeded a self-perpetuating conspiracy narrative in UFO subculture, with no evidence ever produced of the alleged facility."
   },
   "sightings": {
     "statistics": {
@@ -97,30 +145,100 @@
     "photographic": [],
     "video": [],
     "audio": [],
-    "trace": []
+    "trace": [],
+    "documentary": [
+      {
+        "id": "dulce-evidence-bennewitz-letter-1981",
+        "type": "letter",
+        "name": "Bennewitz letter to Senator Pete Domenici",
+        "date": "1981-12-02",
+        "description": "Letter from Paul Bennewitz to US Senator Pete Domenici describing an alleged 'Dulce War' in late 1979 or early 1980.",
+        "status": "verified",
+        "analysis": "Verified as authored by Bennewitz; verifies the date the 'Dulce War' motif entered the documentary record. Does not verify the claims it makes.",
+        "source": "Wikipedia: Paul Bennewitz"
+      },
+      {
+        "id": "dulce-evidence-moore-1989",
+        "type": "speech",
+        "name": "William Moore MUFON disclosure",
+        "date": "1989-07-01",
+        "description": "Public statement by UFOlogist William Moore that he and AFOSI officer Richard Doty conducted a disinformation campaign against Bennewitz.",
+        "status": "verified",
+        "analysis": "On-the-record disclosure that anchors the academic and journalistic interpretation of Dulce Base as a product of disinformation.",
+        "source": "Wikipedia: Paul Bennewitz"
+      }
+    ]
   },
   "theories": {
-    "paranormal": [],
+    "paranormal": [
+      {
+        "name": "Joint US-government / extraterrestrial laboratory",
+        "description": "Conspiracy claim that Dulce Base is a multi-level underground facility where the US government and extraterrestrials jointly conduct experiments on humans and animals.",
+        "proponents": ["Paul Bennewitz", "John Lear", "'Jason Bishop III' (Thomas Allen LeVesque)"],
+        "evidence_cited": ["Bennewitz's claimed intercepts of alien transmissions", "Hypnosis-derived narratives from Myrna Hansen (1980)", "Sensational coverage in Weekly World News (1988)"]
+      }
+    ],
     "scientific": [],
-    "skeptical": []
+    "skeptical": [
+      {
+        "name": "AFOSI disinformation operation",
+        "description": "The Dulce Base narrative is best explained as the product of a deliberate disinformation campaign conducted by the US Air Force Office of Special Investigations (AFOSI), via William Moore and Richard Doty, against Paul Bennewitz from 1980 onwards.",
+        "proponents": ["William Moore (1989 disclosure)", "Michael Barkun"],
+        "evidence_cited": ["1989 William Moore MUFON disclosure", "1992 CIA-library Monroe Institute document corroboration", "Bennewitz's 1988 mental-health crisis"]
+      },
+      {
+        "name": "Acknowledged fabrication",
+        "description": "Thomas Allen LeVesque, who wrote pseudonymously as 'Jason Bishop III', later acknowledged that he had fabricated key Dulce Base accounts.",
+        "proponents": ["Thomas Allen LeVesque (acknowledged after the fact)"],
+        "evidence_cited": ["LeVesque's own acknowledgement reported in mainstream coverage"]
+      },
+      {
+        "name": "No physical or documentary evidence",
+        "description": "After more than four decades and intensive UFO-community investigation, no specimen, photograph, satellite signature, or government document of the alleged Dulce Base has surfaced.",
+        "proponents": ["Mainstream skeptical literature"],
+        "evidence_cited": ["Continued absence of any verifiable record"]
+      }
+    ]
   },
   "cultural": {
     "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
+      "traditions": [
+        "Late-20th-century American UFO subculture",
+        "Underground-base conspiracy narratives"
+      ],
+      "stories": [
+        "'Dulce Wars' (1979–1980) firefight narrative",
+        "Bennewitz / Kirtland AFB intercepts",
+        "Myrna Hansen 1980 hypnosis-derived account"
+      ],
+      "beliefs": "Dulce Base belief is sustained largely outside the mainstream UFO community by a self-reinforcing network of lectures, podcasts, and websites."
     },
     "popular_culture": {
-      "literature": [],
-      "film_tv": [],
+      "literature": [
+        "Greg Bishop, Project Beta: The Story of Paul Bennewitz, National Security, and the Creation of a Modern UFO Myth (2005) — most extensive journalistic treatment",
+        "Michael Barkun, A Culture of Conspiracy (2003) — academic treatment"
+      ],
+      "film_tv": [
+        "Coverage in cable-network UFO programming throughout the 2000s and 2010s"
+      ],
       "games": [],
-      "other": []
+      "other": [
+        "Annual Dulce Base UFO Conference (first held 2016) in Dulce, New Mexico"
+      ]
     }
   },
   "research": {
-    "researchers": [],
+    "researchers": [
+      { "name": "Greg Bishop", "affiliation": "Independent journalist", "contribution": "Project Beta (2005), the most extensive journalistic reconstruction of the Bennewitz / Dulce Base story", "period": "2005" },
+      { "name": "Michael Barkun", "affiliation": "Syracuse University (political science)", "contribution": "Academic analysis of Dulce Base within US conspiracy culture in A Culture of Conspiracy (2003)", "period": "2003" }
+    ],
     "organizations": [],
-    "ongoing_studies": "None documented"
+    "ongoing_studies": "Mainstream investigative attention is essentially closed; ongoing engagement is largely cultural and tourism-driven (e.g., the Dulce Base UFO Conference)."
   },
-  "sources": []
+  "sources": [
+    { "id": "wikipedia-dulce-base", "type": "website", "title": "Dulce Base", "publication": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Dulce_Base", "accessed": "2026-05-07" },
+    { "id": "wikipedia-paul-bennewitz", "type": "website", "title": "Paul Bennewitz", "publication": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Paul_Bennewitz", "accessed": "2026-05-07" },
+    { "id": "bishop-2005", "type": "book", "title": "Project Beta: The Story of Paul Bennewitz, National Security, and the Creation of a Modern UFO Myth", "authors": ["Greg Bishop"], "publication": "Paraview Pocket Books", "date": "2005", "isbn": "978-0743470926" },
+    { "id": "barkun-2003", "type": "book", "title": "A Culture of Conspiracy: Apocalyptic Visions in Contemporary America", "authors": ["Michael Barkun"], "publication": "University of California Press", "date": "2003", "isbn": "978-0520238053" }
+  ]
 }
